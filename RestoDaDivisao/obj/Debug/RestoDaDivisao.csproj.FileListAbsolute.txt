@@ -1,0 +1,20 @@
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.csprojAssemblyReference.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.Form1.resources
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.Form1.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Aula\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb
